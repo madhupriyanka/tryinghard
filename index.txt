@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<header>
+<h1> this is in the header</h1>
+</header>
+<body>
+
+<h1>My First Heading</h1> <!--this is the heading-->
+<p>My first paragraph.</p> 
+
+</body>
+</html>
